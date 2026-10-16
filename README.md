@@ -3,11 +3,7 @@
 Colección de katas (ejercicios prácticos de programación) resueltas en Python para
 aplicar y consolidar los conocimientos del módulo de Python.
 
-## ¿Qué es una kata?
 
-Una kata es un ejercicio práctico diseñado para mejorar las habilidades de un
-programador mediante la repetición y el perfeccionamiento de técnicas de codificación.
-Cada kata plantea un problema que puede resolverse de distintas maneras.
 
 ## Estructura del repositorio
 
