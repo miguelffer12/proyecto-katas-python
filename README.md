@@ -20,17 +20,6 @@ ejercicios.
 > **Nota:** el enunciado original salta del ejercicio 34 al 36 (no existe el 35).
 > Se ha respetado la numeración original.
 
-## Cómo ejecutarlo
-
-Requisitos: Python 3.8 o superior. No hace falta instalar ninguna librería externa.
-
-```bash
-python katas_python.py
-```
-
-El programa muestra el resultado de todos los ejercicios con datos de ejemplo. Al
-final pregunta si se quieren probar los **ejercicios interactivos** (8, 11, 31, 38,
-39 y 41), que piden datos por teclado.
 
 ## Pasos seguidos durante el proyecto
 
@@ -100,4 +89,4 @@ Algunos enunciados admitían varias interpretaciones. Estas son las decisiones t
 
 ## Autor
 
-_Tu nombre_ — Proyecto del módulo de Python.
+Miguel Fernández Fernández
